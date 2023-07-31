@@ -5,7 +5,7 @@ import sys
 pygame.init()
 
 # Размеры окна
-WINDOW_WIDTH, WINDOW_HEIGHT = 800, 600
+WINDOW_WIDTH, WINDOW_HEIGHT = 360, 480
 
 # Цвета
 WHITE = (255, 245, 255)
