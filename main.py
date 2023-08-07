@@ -12,7 +12,7 @@ WHITE = (245, 245, 245)
 BLACK = (0, 0, 0)
 
 # Размеры и скорость платформы
-PADDLE_WIDTH, PADDLE_HEIGHT = 15, 150
+PADDLE_WIDTH, PADDLE_HEIGHT = 20, 150
 PADDLE_SPEED = 10
 
 # Размеры и скорость мячика
