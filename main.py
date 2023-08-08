@@ -17,7 +17,7 @@ PADDLE_SPEED = 10
 
 # Размеры и скорость мячика
 BALL_WIDTH, BALL_HEIGHT = 20, 20
-BALL_SPEED_X, BALL_SPEED_Y = 5, 5
+BALL_SPEED_X, BALL_SPEED_Y = 6, 6
 
 # Функция для обновления экрана
 def update_screen():
