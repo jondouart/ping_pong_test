@@ -30,7 +30,7 @@ def update_screen():
 
 # Создание окна
 window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-pygame.display.set_caption('Ping-Pong')
+pygame.display.set_caption('my Ping-Pong')
 
 # Создание платформ
 player_paddle = pygame.Rect(50, WINDOW_HEIGHT // 2 - PADDLE_HEIGHT // 2, PADDLE_WIDTH, PADDLE_HEIGHT)
