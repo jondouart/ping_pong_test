@@ -72,4 +72,4 @@ while True:
     update_screen()
 
     # Ограничение частоты обновления экрана
-    clock.tick(25)
+    clock.tick(60)
