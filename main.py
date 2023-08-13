@@ -8,7 +8,7 @@ pygame.init()
 WINDOW_WIDTH, WINDOW_HEIGHT = 720, 480
 
 # Цвета
-WHITE = (245, 245, 245)
+WHITE = (230, 230, 230)
 BLACK = (5, 5, 5)
 
 # Размеры и скорость платформы
