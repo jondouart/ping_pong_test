@@ -13,7 +13,7 @@ BLACK = (5, 5, 5)
 
 # Размеры и скорость платформы
 PADDLE_WIDTH, PADDLE_HEIGHT = 20, 150
-PADDLE_SPEED = 10
+PADDLE_SPEED = 20
 
 # Размеры и скорость мячика
 BALL_WIDTH, BALL_HEIGHT = 20, 20
