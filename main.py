@@ -9,7 +9,7 @@ WINDOW_WIDTH, WINDOW_HEIGHT = 720, 480
 
 # Цвета
 WHITE = (230, 230, 230)
-BLACK = (5, 5, 5)
+BLACK = (0, 0, 0)
 
 # Размеры и скорость платформы
 PADDLE_WIDTH, PADDLE_HEIGHT = 20, 150
