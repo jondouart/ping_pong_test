@@ -16,7 +16,7 @@ PADDLE_WIDTH, PADDLE_HEIGHT = 20, 150
 PADDLE_SPEED = 20
 
 # Размеры и скорость мячика
-BALL_WIDTH, BALL_HEIGHT = 20, 20
+BALL_WIDTH, BALL_HEIGHT = 5, 5
 BALL_SPEED_X, BALL_SPEED_Y = 3, 6
 
 # Функция для обновления экрана
