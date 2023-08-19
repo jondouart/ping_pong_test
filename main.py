@@ -28,7 +28,6 @@ def update_screen():
     pygame.draw.aaline(window, WHITE, (WINDOW_WIDTH // 2, 0), (WINDOW_WIDTH // 2, WINDOW_HEIGHT))
     pygame.display.update()
 
-# Создание окна
 window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 pygame.display.set_caption('my Ping-Pong')
 
