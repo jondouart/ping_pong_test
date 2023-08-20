@@ -3,6 +3,7 @@ import sys
 
 # Инициализация pygame
 pygame.init()
+console.log("init)
 
 # Размеры окна
 WINDOW_WIDTH, WINDOW_HEIGHT = 1080, 720
