@@ -68,7 +68,6 @@ while True:
     if ball.colliderect(player_paddle) or ball.colliderect(opponent_paddle):
         ball_speed_x *= -1
 
-    # Обновление экрана
     update_screen()
 
     # Ограничение частоты обновления экрана
