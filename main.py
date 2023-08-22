@@ -3,7 +3,7 @@ import sys
 
 # Инициализация pygame
 pygame.init()
-console.log("init)
+console.log("init")
 
 # Размеры окна
 WINDOW_WIDTH, WINDOW_HEIGHT = 1080, 720
@@ -22,6 +22,7 @@ BALL_SPEED_X, BALL_SPEED_Y = 10, 10
 
 # Функция для обновления экрана
 def update_screen():
+    console.log("update_screen")
     window.fill(BLACK)
     pygame.draw.rect(window, WHITE, player_paddle)
     pygame.draw.rect(window, WHITE, opponent_paddle)
