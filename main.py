@@ -39,6 +39,7 @@ player_paddle = pygame.Rect(50, WINDOW_HEIGHT // 2 - PADDLE_HEIGHT // 2, PADDLE_
 opponent_paddle = pygame.Rect(WINDOW_WIDTH - 50 - PADDLE_WIDTH, WINDOW_HEIGHT // 2 - PADDLE_HEIGHT // 2, PADDLE_WIDTH, PADDLE_HEIGHT)
 
 # Создание мячика
+console.log("Создание мячика")
 ball = pygame.Rect(WINDOW_WIDTH // 2 - BALL_WIDTH // 2, WINDOW_HEIGHT // 2 - BALL_HEIGHT // 2, BALL_WIDTH, BALL_HEIGHT)
 ball_speed_x, ball_speed_y = BALL_SPEED_X, BALL_SPEED_Y
 
